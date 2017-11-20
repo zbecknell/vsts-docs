@@ -71,7 +71,7 @@ as VSTS account owner and as Azure subscription Co-administrator or greater.
    
  [Browser problems in Azure?](https://azure.microsoft.com/en-us/documentation/articles/azure-preview-portal-supported-browsers-devices/)
 
-0. Go to **More services** > **Developer tools** > **VSTS accounts**. 
+0. Go to **More services** > **Developer tools** > **Team Services accounts**. 
 Select your VSTS account.
 
     ![More services, Developer tools, VSTS accounts, select your account](_img/set-up-billing/ap_vso_startlink2.png)
